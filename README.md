@@ -1,5 +1,6 @@
 # Introduction to Cloud Computing on AWS for Beginners Course Code
 *By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
+*Used by Alice*
 
 ## How to Use the Course Code
 
